@@ -510,9 +510,10 @@ function App() {
               </ul>
             </div>
             <div className="footer-section">
-              <h4>Contact</h4>
-              <p>Coming Soon...</p>
-              <p>Stay tuned for updates!</p>
+              <h4>Contact Us</h4>
+              <p><strong>Email:</strong> skshravan553@gmail.com</p>
+              <p><strong>Location:</strong> Mangaluru, Karnataka, India</p>
+              <p>Ready to revolutionize space research!</p>
             </div>
           </div>
           <div className="footer-bottom">
