@@ -86,7 +86,7 @@ function App() {
         <nav className="nav-container">
           <div className="logo">
             <Rocket className="w-8 h-8 text-cyan-400" />
-            <span className="logo-text">QuantumSpace</span>
+            <span className="logo-text">ShanCorp</span>
           </div>
           <div className="nav-links">
             <a href="#features">Features</a>
