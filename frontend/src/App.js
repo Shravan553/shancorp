@@ -517,7 +517,7 @@ function App() {
             </div>
           </div>
           <div className="footer-bottom">
-            <p>&copy; 2025 QuantumSpace. All rights reserved. Building the future of space and quantum research.</p>
+            <p>&copy; 2025 ShanCorp. All rights reserved. Building the future of space and quantum research from Mangaluru, Karnataka.</p>
           </div>
         </div>
       </footer>
