@@ -483,9 +483,13 @@ function App() {
             <div className="footer-section">
               <div className="footer-logo">
                 <Rocket className="w-8 h-8 text-cyan-400" />
-                <span>QuantumSpace</span>
+                <span>ShanCorp</span>
               </div>
               <p>Pioneering the future of space research and quantum technology</p>
+              <div className="contact-info">
+                <p><strong>Headquarters:</strong> Mangaluru, Karnataka, India</p>
+                <p><strong>Contact:</strong> skshravan553@gmail.com</p>
+              </div>
             </div>
             <div className="footer-section">
               <h4>Research Areas</h4>
