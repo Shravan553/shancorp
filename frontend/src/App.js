@@ -430,8 +430,8 @@ function App() {
             <TabsContent value="about" className="tab-content">
               <Card className="about-card">
                 <CardHeader>
-                  <CardTitle>About QuantumSpace</CardTitle>
-                  <CardDescription>Pioneering the future of space research and quantum technology</CardDescription>
+                  <CardTitle>About ShanCorp</CardTitle>
+                  <CardDescription>Pioneering the future of space research and quantum technology from Mangaluru, Karnataka</CardDescription>
                 </CardHeader>
                 <CardContent className="about-content">
                   <div className="about-grid">
