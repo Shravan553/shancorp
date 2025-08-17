@@ -101,7 +101,7 @@ function App() {
       <section className="hero">
         <div className="hero-content">
           <div className="hero-text">
-            <Badge className="hero-badge">🚀 Future of Space & Quantum Technology</Badge>
+            <Badge className="hero-badge">🚀 ShanCorp - Future of Space & Quantum Technology</Badge>
             <h1 className="hero-title">
               Pioneering the Next Frontier of
               <span className="gradient-text"> Space Research</span> &
