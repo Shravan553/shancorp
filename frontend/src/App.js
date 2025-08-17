@@ -280,7 +280,7 @@ function App() {
             <TabsContent value="ai-demo" className="tab-content">
               <Card className="demo-card">
                 <CardHeader>
-                  <CardTitle>AI Assistant - Space & Quantum Expert</CardTitle>
+                  <CardTitle>AI Assistant - ShanCorp Space & Quantum Expert</CardTitle>
                   <CardDescription>
                     Ask me anything about space research, quantum theory, or AI programming!
                   </CardDescription>
